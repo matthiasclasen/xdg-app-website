@@ -8,7 +8,7 @@
 - title: Developers
   link: "#developers"
   submenu:
-  - title: Detailed Instructions
+  - title: Building apps
     link: developer.html
 - title: Get&nbsp;Involved
   link: "#get-involved"
